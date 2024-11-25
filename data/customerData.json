@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Steven",
+        "username": "stewicca",
+        "password": "VDyw}sxh",
+        "balance": 40000
+    },
+    {
+        "id": 2,
+        "name": "Mike",
+        "username": "mikey",
+        "password": "Veyw}4xh",
+        "balance": 10000
+    }
+]
